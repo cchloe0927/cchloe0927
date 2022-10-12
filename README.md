@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-현정's<a href="https://cchloe0927.tistory.com/" target="_blank"><p>Tistory</p></a>
+현정's [Tistory](https://cchloe0927.tistory.com/)
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cchloe0927)](https://github.com/anuraghazra/github-readme-stats)
