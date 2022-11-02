@@ -1,6 +1,6 @@
 <div align=center>
 
-### Hi there 👋
+## Hi there 👋
 
 현정's [Tistory](https://cchloe0927.tistory.com/)
 
